@@ -8,4 +8,4 @@ Pick up passengers by landing on the platform their on and take them where they 
 
 #Note 
 To land on the platform you have to hit it from above. If you hit it from any other direction then you'll die.
-Also this is the only highschool game I made that had the levels in an external file.
+<br>This is the only game I made during highschool that had the levels in an external file.
