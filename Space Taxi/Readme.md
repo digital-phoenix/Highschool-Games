@@ -7,5 +7,5 @@ Arrow keys to move
 Pick up passengers by landing on the platform their on and take them where they want to go,
 
 #Note 
-To land on the platform you have to hit it from above. If you hit it from any other direction then you'll die.
+To land on the platform you have to hit it from above. If you hit it from any other direction you'll die.
 <br>This is the only game I made during highschool that had the levels in an external file.
